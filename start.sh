@@ -1,3 +1,3 @@
-git clone "https://github.com/Myudi422/indez" tgs
+git clone "https://github.com/xeraxka/gambar-link" tgs
 cd tgs
 python -m WebStreamer
